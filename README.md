@@ -6,12 +6,13 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" height="30" /> 👩‍💻 About Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" height="30" /> 
 <br/>
-  <p align='left'>- I am <b>Akansha Rajput</b>, currently completed my Master's in Business Analytics degree from University of Birmingham</p>
-  <p align='left'>- 💻I am a Data Analyst as well as 📱ML / AI enthusiast</p>
-  <p align='left'>- I love❤ to make exciting projects</p>
-  <p align='left'>- I really enjoy learning🚀 new languages and libraries like Numpy, Pandas, Matplotlib, Seaborn and many more</p>
-  <p align='left'>- I also love python🐍, SQL, Business Intelligence Tools like Tableau and Machine-Learning/Artificial-Intelligence</p>
-  <p align='left'>- 🔭 I have recently completed projects on UoB Sports and Fitness Centre, Impact of COVID-19 on USA, Target live projects</p>
+  <p align='left'>- 🎓 I recently completed my <b>Master's in Business Analytics</b> from the University of Birmingham.</p>
+  <p align='left'>- 👩‍💻 As a Data Analyst, I thrive on solving complex problems and delivering insights. I’m also deeply enthusiastic about Machine Learning and Artificial Intelligence.</p>
+  <p align='left'>- 💡 I love creating exciting projects that bring data to life and find innovative solutions.</p>
+  <p align='left'>- 🚀 I’m skilled in using libraries such as Numpy, Pandas, Matplotlib, and Seaborn.</p>
+  <p align='left'>- My technical toolkit includes Python 🐍 , SQL, Tableau, Power BI, Excel,Machine Learning and Artificial Intelligence.</p>
+  <p align='left'>- 🔭 Some recent projects I’ve worked on include the UoB Sports and Fitness Centre Analysis, the Impact of COVID-19 on the USA, and Target Live Projects.
+</p>
   <p align='left'> - For project or any informative discussion, connect on <b>LinkedIn</b>😎😇</p>
 </div>
 <br/>
